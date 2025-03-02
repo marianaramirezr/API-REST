@@ -1,0 +1,56 @@
+{
+  "generos": [
+    {
+      "id": 1,
+      "nombre": "Acción",
+      "estado": "Activo"
+    },
+    {
+      "id": 2,
+      "nombre": "Drama",
+      "estado": "Activo"
+    }
+  ],
+  "directores": [
+    {
+      "id": 1,
+      "nombre": "Christopher Nolan",
+      "estado": "Activo"
+    }
+  ],
+  "productoras": [
+    {
+      "id": 1,
+      "nombre": "Warner Bros",
+      "estado": "Activo",
+      "slogan": "Imagina más"
+    }
+  ],
+  "tipos": [
+    {
+      "id": 1,
+      "nombre": "Película"
+    },
+    {
+      "id": 2,
+      "nombre": "Serie"
+    }
+  ],
+  "media": [
+    {
+      "id": 1,
+      "titulo": "Inception",
+      "sinopsis": "Un ladrón con la habilidad de entrar en los sueños de las personas...",
+      "anio": 2010,
+      "url": "https://example.com/inception",
+      "imagen": "https://example.com/inception.jpg",
+      "genero": 1,
+      "director": 1,
+      "productora": 1,
+      "tipo": 1
+    },
+    {
+      "id": 2
+    }
+  ]
+}
